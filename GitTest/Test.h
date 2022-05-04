@@ -1,6 +1,6 @@
 #pragma once
 class Test
 {
-	void test();
+	void test(int i);
 };
 
