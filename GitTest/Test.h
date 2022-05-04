@@ -1,6 +1,6 @@
 #pragma once
-class Test
-{
-	void test(int i);
+
+class Test {
+	int test(int i);
 };
 
