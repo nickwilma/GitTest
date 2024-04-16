@@ -4,5 +4,6 @@ class Test {
 	int test(int i) {
 		i++;
 		return i;
+		bfjwqbtjhq
 	}
 };
