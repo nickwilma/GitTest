@@ -3,7 +3,7 @@
 class Test {
 	int test(int i) {
 		i++;
-		return i;
+		return i + 1;
 		
 	}
 };
